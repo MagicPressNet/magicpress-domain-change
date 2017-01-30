@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Change Domain 
-Plugin URI: https://magicpress.net/opensource/wordpress/plugins/change-domain/
+Plugin URI: https://github.com/MagicPressNet/magicpress-domain-change
 Version: 1.1
 Description: The Domain Change by MagicPress allows you to easily change your website domain or protocol.
 Author: MagicPress
